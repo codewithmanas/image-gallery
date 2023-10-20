@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ['placekitten.com'], // An empty array means images from any domain are allowed.
+    domains: ['placekitten.com', 'picsum.photos'], // An empty array means images from any domain are allowed.
   },
 }
 
